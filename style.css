@@ -79,3 +79,9 @@
 .win{
     background-color: rgba(0, 255, 0, 0.3);
 }
+
+@media screen and (max-width: 350px){
+    .tic-tac-toe{
+        width: 85%;
+    }
+}
